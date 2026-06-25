@@ -18,27 +18,10 @@ import {
   Sparkles,
   AlertCircle,
   Clock,
-  ArrowRight
-} from 'lucide-react';
-  Lock,
-  Unlock,
-  Trash2,
-  UploadCloud,
-  Plus,
-  Send,
-  Sun,
-  Moon,
-  Eye,
-  Gift,
-  Video,
-  Share2,
-  Link,
-  Smartphone,
-  Download,
-  Laptop,
+  ArrowRight,
   Cloud,
   ExternalLink
-} from "lucide-react";
+} from 'lucide-react';
 
 import { Language, TRANSLATIONS, Landmark, LANDMARKS, GALLERY_PHOTOS } from "./types";
 import RadioPlayer from "./components/RadioPlayer";
