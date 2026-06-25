@@ -1,9 +1,17 @@
 import React, { useState, useEffect, useRef } from "react";
 import { 
   Compass, 
-  BookOpen, \n  Sprout, \n  Calendar, \n  MapPin, \n  MessageSquare, \n  Radio as RadioIcon, \n  Mail, \n  Inbox,
+  BookOpen, 
+  Sprout, 
+  Calendar, 
+  MapPin, 
+  MessageSquare, 
+  Radio as RadioIcon, 
+  Mail, 
+  Inbox,
   Bell,
-  Heart, 
+  Heart
+} from 'lucide-react';
   ChevronRight, 
   Languages, 
   ChevronLeft, 
