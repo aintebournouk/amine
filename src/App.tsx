@@ -15,11 +15,14 @@ import {
   ChevronRight, 
   Languages, 
   ChevronLeft, 
-  CheckCircle2, 
-  Info, 
-  Sparkles, \n  AlertCircle,
+ import {
+  CheckCircle2,
+  Info,
+  Sparkles,
+  AlertCircle,
   Clock,
-  ArrowRight,
+  ArrowRight
+} from 'lucide-react';
   Lock,
   Unlock,
   Trash2,
