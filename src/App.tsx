@@ -10,12 +10,9 @@ import {
   Mail, 
   Inbox,
   Bell,
-  Heart
-} from 'lucide-react';
-  ChevronRight, 
-  Languages, 
-  ChevronLeft, 
- import {
+  Heart,
+  Languages,
+  ChevronLeft,
   CheckCircle2,
   Info,
   Sparkles,
