@@ -36,7 +36,10 @@ const ShareButtons = ({
   lang 
 }: { 
   title: string; 
-  text: string; \n  url?: string; \n  lang: string; \n}) => {
+  text: string; 
+  url?: string; 
+  lang: string; 
+}) => {
   const [copied, setCopied] = useState(false);
   const [showOptions, setShowOptions] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
